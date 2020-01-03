@@ -1,0 +1,14 @@
+{
+  "name": "IglProject",
+  "version": "0.1.0",
+  "description": "A basic web app documentation for the Igl course",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2020-01-03T19:40:19.182Z",
+    "url": "http://apidocjs.com",
+    "version": "0.19.1"
+  }
+}
